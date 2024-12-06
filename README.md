@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/user-attachments/assets/56f9422e-339d-44fe-b4c0-b3c122f21e56)]
+[![MasterHead](https://github.com/user-attachments/assets/cbcdd7f0-3b17-4ed4-90ab-2270e76272d7)]
 <h1 align="center">Hi 👋, I'm Md. Mominul Islam</h1>
 <h3 align="center">Undergraduate Research Assistant</h3>
 
